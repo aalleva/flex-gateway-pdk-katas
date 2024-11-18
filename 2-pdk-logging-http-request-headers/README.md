@@ -1,4 +1,4 @@
-# Kata 2: Logging HTTP Request Headers*
+# Kata 2: Logging HTTP Request Headers
 
 ## Objective
 
